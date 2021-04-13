@@ -4,6 +4,4 @@ Le but de ce TP est de reproduire l'oeuvre de François Morellet *Répartition a
 
 On peut admirer l'oeuvre d'origine en cliquant sur ce [lien](http://radicalart.info/AlgorithmicArt/grid/any/index.html)
 
-Pour la liste des décimales de $\pi$, on pourra prendre la liste des [10 000 premières décimales](http://www.plouffe.fr/simon/constants/pi10000.txt) proposées par Simon Plouffe. 
-
-Vous pouvez tester le notebook en cliquant sur ce lien [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/Morellet/HEAD)
+Pour la liste des décimales de $\pi$, on pourra prendre la liste des [10 000 premières décimales](http://www.plouffe.fr/simon/constants/pi10000.txt) proposées par Simon Plouffe.
