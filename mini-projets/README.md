@@ -9,4 +9,4 @@ Voici quelques mini-projets que j'ai proposé à mes élèves de première NSI
 |:--:|:--:|:--:|
 |Morellet 1| 2 h | Travailler sur les caractères d'une chaîne de caractères en sinspirant d'un \oe uvre de François Morellet|
 
-![](Morellet 1/morellet1egal3.png)
+![](Morellet1/morellet1egal3.png)
