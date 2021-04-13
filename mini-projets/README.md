@@ -7,6 +7,6 @@ Voici quelques mini-projets que j'ai proposé à mes élèves de première NSI
 
 |Projet|Durée|But|
 |:--:|:--:|:--:|
-|Morellet 1| 2 h | Travailler sur les caractères d'une chaîne de caractères en sinspirant d'un oeuvre de François Morellet|
-
+|Morellet 1| 2 h | Travailler sur les caractères d'une chaîne de caractères en s'inspirant d'un oeuvre de François Morellet|
+|Morellet 2| 2 h | Travailler sur un fichier texte en s'inspirant d'un oeuvre de François Morellet|
 
