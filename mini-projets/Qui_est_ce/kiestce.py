@@ -1,4 +1,4 @@
-tab_kiestce = [
+kiestce = [
     {'nom':'Julie', 'genre':'fille', 'yeux':'bleus', 'cheveux':'longs',
      'col_cheveux':'brun', 'nez':'petit', 'barbe':'aucune',
      'lunettes':'non', 'chapeau':'non'},
@@ -99,7 +99,7 @@ tab_kiestce = [
 #'genre' :  'garçon', 'fille'
 #'yeux' : 'marrons', 'bleus'
 #'cheveux' : 'courts', 'longs',  'chauve'
-#'couleurs de cheveux' : 'blanc','brun','roux','blond','chatain'
+#'coul_cheveux' : 'blanc','brun','roux','blond','chatain'
 #'nez' : 'petit','gros'
 #'barbe' : 'aucune', 'moustache', 'barbe'
 #'lunettes' : 'non', 'oui'
