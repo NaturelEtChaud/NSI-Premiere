@@ -1,4 +1,4 @@
-kiestce = [
+tab_kiestce = [
     {'nom':'Julie', 'genre':'fille', 'yeux':'bleus', 'cheveux':'longs',
      'col_cheveux':'brun', 'nez':'petit', 'barbe':'aucune',
      'lunettes':'non', 'chapeau':'non'},
