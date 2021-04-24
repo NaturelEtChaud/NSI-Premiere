@@ -2,7 +2,7 @@
 
 En s'inspirant du célbère jeu *Qui est-ce ?* on peut construire le tableau de dictionnaires suivant contenant tous les personnages du jeu.
 
-Pour chaque personnage, on a dictionnaire aevc pour chaque clef suivante, on a l'une de ces valeurs :
+Pour chaque personnage, on a un dictionnaire aevc pour chaque clef suivante, on a l'une de ces valeurs :
 * 'nom' : le nom du personnage
 * 'genre' :  'garçon', 'fille'
 * 'yeux' : 'marrons', 'bleus'
