@@ -1,4 +1,4 @@
-# Mini-projjet - Qui est-ce ?
+# Mini-projet - Qui est-ce ?
 
 En s'inspirant du célbère jeu *Qui est-ce ?* on peut construire le tableau de dictionnaires suivant :
 
