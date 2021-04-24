@@ -99,7 +99,7 @@ kiestce = [
 #'genre' :  'garçon', 'fille'
 #'yeux' : 'marrons', 'bleus'
 #'cheveux' : 'courts', 'longs',  'chauve'
-#'coul_cheveux' : 'blanc','brun','roux','blond','chatain'
+#'col_cheveux' : 'blanc','brun','roux','blond','chatain'
 #'nez' : 'petit','gros'
 #'barbe' : 'aucune', 'moustache', 'barbe'
 #'lunettes' : 'non', 'oui'
