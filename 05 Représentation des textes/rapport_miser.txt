@@ -1,0 +1,37 @@
+Voici le rapport d'analyse du fichier : Les_miserables_tome1
+
+La lettre a a une fréquence d'apparition de 6.33%
+La lettre à a une fréquence d'apparition de 0.41%
+La lettre b a une fréquence d'apparition de 0.77%
+La lettre c a une fréquence d'apparition de 2.38%
+La lettre ç a une fréquence d'apparition de 0.05%
+La lettre d a une fréquence d'apparition de 2.69%
+La lettre e a une fréquence d'apparition de 11.44%
+La lettre é a une fréquence d'apparition de 1.45%
+La lettre è a une fréquence d'apparition de 0.25%
+La lettre ê a une fréquence d'apparition de 0.23%
+La lettre ë a une fréquence d'apparition de 0.0%
+La lettre f a une fréquence d'apparition de 0.92%
+La lettre g a une fréquence d'apparition de 0.72%
+La lettre h a une fréquence d'apparition de 0.83%
+La lettre i a une fréquence d'apparition de 5.96%
+La lettre ï a une fréquence d'apparition de 0.01%
+La lettre j a une fréquence d'apparition de 0.44%
+La lettre k a une fréquence d'apparition de 0.02%
+La lettre l a une fréquence d'apparition de 4.53%
+La lettre m a une fréquence d'apparition de 2.33%
+La lettre n a une fréquence d'apparition de 5.27%
+La lettre o a une fréquence d'apparition de 4.03%
+La lettre p a une fréquence d'apparition de 2.03%
+La lettre q a une fréquence d'apparition de 0.98%
+La lettre r a une fréquence d'apparition de 4.87%
+La lettre s a une fréquence d'apparition de 5.67%
+La lettre t a une fréquence d'apparition de 5.94%
+La lettre u a une fréquence d'apparition de 4.8%
+La lettre ù a une fréquence d'apparition de 0.04%
+La lettre ü a une fréquence d'apparition de 0.0%
+La lettre v a une fréquence d'apparition de 1.52%
+La lettre w a une fréquence d'apparition de 0.04%
+La lettre x a une fréquence d'apparition de 0.31%
+La lettre y a une fréquence d'apparition de 0.3%
+La lettre z a une fréquence d'apparition de 0.14%
