@@ -10,8 +10,8 @@ Python, module pillow, Chaîne de caractères, Binaire, Opérateurs logiques, Cr
 ## Première étape (TODO) <br />
 Lire un fichier texte, supprimer tous les espaces et les sauts de ligne. <br />
 Remplacer les majuscules par des minuscules. <br />
-Remplacer tous les caractères accentuées par les caractères correspondant de l'alphabet. Par exemple les 'é', 'è' et 'ê' sont remplacés par un 'e'. Le 'ç' est remplacé par un 'c'. <br />
-....
+Remplacer tous les caractères accentuées par les caractères correspondant de l'alphabet.<br />
+Par exemple les 'é', 'è' et 'ê' sont remplacés par un 'e'. Le 'ç' est remplacé par un 'c'.....
 
 ## Deuxième étape (TODO) <br />
 Convertir chaque caractère en un nombre binaire.
