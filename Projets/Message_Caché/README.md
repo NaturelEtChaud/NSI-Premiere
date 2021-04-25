@@ -1,11 +1,11 @@
 # Projet - Message caché
 
-## Mots-clefs
-Python, module pillow, Chaîne de caractères, Binaire, Opérateurs logiques, Cryptographie, Image, Composante (R,V,B) d'un pixel, Stéganographie
-
 Ce projet va être donné à mes élèves début mai 2021. Il est pour le moment en *work in progress*.
 
 Je depose ici ma version de ce travail que je vais effectuer en parallèle de leur travaux.
+
+### Mots-clefs
+Python, module pillow, Chaîne de caractères, Binaire, Opérateurs logiques, Cryptographie, Image, Composante (R,V,B) d'un pixel, Stéganographie
 
 ## Première étape (TODO) <br />
 Lire un fichier texte, supprimer tous les espaces et les sauts de ligne. <br />
