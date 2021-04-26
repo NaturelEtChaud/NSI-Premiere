@@ -27,7 +27,7 @@ Stéganographie (1/2) <br />
 Utilsation du module `pillow` <br />
 Récupérer la composante de Rouge, Vert et Bleu de chaque pixel d'une image au format `.bmp`. <br />
 Convertir ces composantes en binaire et supprimer des bits de poids faibles. <br />
-Faire des essais pour déterminer le plus grand nombre de bits de poids faibles que l'on supprimer sans dénaturer la qualité de l'image. <br />
+Faire des essais pour déterminer le plus grand nombre de bits de poids faibles que l'on peut supprimer sans dénaturer la qualité de l'image. <br />
 https://fr.wikipedia.org/wiki/Bit_de_poids_faible
 
 ## Cinquième étape (TODO) <br />
