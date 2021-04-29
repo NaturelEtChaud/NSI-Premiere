@@ -9,7 +9,7 @@ Les données sont issues du site d'*Open Data* KAGGLE :<br />
 https://www.kaggle.com/c/titanic
 
 
-## Manipulation de tables
+## Coubntries and Cities
 Cette partie est inspirée du document d'accompagnement <br />
 https://cache.media.eduscol.education.fr/file/NSI/78/1/RA_Lycee_G_NSI_trtd_tables_1170781.pdf <br />
 Elle utilise les fichiers `countries.csv` et `cities.csv`.
