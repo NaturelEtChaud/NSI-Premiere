@@ -14,13 +14,13 @@ Remplacer tous les caractères accentuées par les caractères correspondant de 
 Par exemple les 'é', 'è' et 'ê' sont remplacés par un 'e'. Le 'ç' est remplacé par un 'c'.....
 
 ## Deuxième étape (TODO) <br />
-Convertir chaque caractère en un nombre binaire.
-
-## Troisième étape (TODO) <br />
 Effectuer un chiffrement (par exemple le chiffre de César ou le chiffre de Vigenère) <br />
 Cette étape est peut-être à échanger avec la deuxième. <br />
 https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage <br />
 https://fr.wikipedia.org/wiki/Chiffre_de_Vigen%C3%A8re
+
+## Troisième étape (TODO) <br />
+Convertir chaque caractère en un nombre binaire.
 
 ## Quatrième étape (TODO) <br />
 Stéganographie (1/2) <br />
