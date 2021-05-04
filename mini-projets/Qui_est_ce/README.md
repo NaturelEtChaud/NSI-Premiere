@@ -31,6 +31,11 @@ Trouver tous les bruns qui ont une moustache ou une barbe
 
 ## Question 5
 
+Ecrire un programme qui construit un tableau contenant tous les noms du jeu `Qui est-ce ?`<br />
+Ecrire une fonction qui construit un tableau contenant tous les noms des personnages du jeu selon un critère.
+
+## Question 6 (Non corrigé)
+
 A l'aide de la fonction `input()` écrire un programme qui simule le jeu.
 
 Autrement dit, l'ordinateur choisit un personnage au hasard et le joueur essaye de le retrouver le plus vide possible en interrogeant l'ordinateur.
