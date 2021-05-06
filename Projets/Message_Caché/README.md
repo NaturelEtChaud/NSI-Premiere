@@ -15,7 +15,6 @@ Par exemple les 'é', 'è' et 'ê' sont remplacés par un 'e'. Le 'ç' est rempl
 
 ## Deuxième étape (TODO) <br />
 Effectuer un chiffrement (par exemple le chiffre de César ou le chiffre de Vigenère) <br />
-Cette étape est peut-être à échanger avec la deuxième. <br />
 https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage <br />
 https://fr.wikipedia.org/wiki/Chiffre_de_Vigen%C3%A8re
 
