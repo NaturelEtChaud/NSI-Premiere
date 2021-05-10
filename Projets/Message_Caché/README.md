@@ -7,19 +7,23 @@ Je depose ici ma version de ce travail que je vais effectuer en parallèle de le
 ### Mots-clefs
 Python, module pillow, Chaîne de caractères, Binaire, Opérateurs logiques, Cryptographie, Image, Composante (R,V,B) d'un pixel, Stéganographie
 
-## Première étape - Cryptographie 1/3 (TODO) <br />
+# Partie A : Cryptographie
+
+## Première étape - Cryptographie 1/3 *(Fait)* <br />
 Lire un fichier texte, supprimer tous les espaces et les sauts de ligne. <br />
 Remplacer les majuscules par des minuscules. <br />
 Remplacer tous les caractères accentuées par les caractères correspondant de l'alphabet.<br />
 Par exemple les 'é', 'è' et 'ê' sont remplacés par un 'e'. Le 'ç' est remplacé par un 'c'.....
 
-## Deuxième étape - Cryptographie 2/3 (TODO) <br />
+## Deuxième étape - Cryptographie 2/3 *(Fait)* <br />
 Effectuer un chiffrement (par exemple le chiffre de César ou le chiffre de Vigenère) <br />
 https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage <br />
 https://fr.wikipedia.org/wiki/Chiffre_de_Vigen%C3%A8re
 
 ## Troisième étape - Cryptographie 3/3 (TODO) <br />
 Convertir chaque caractère en un nombre binaire.
+
+# Partie B : Stéganographie
 
 ## Quatrième étape - Stéganographie (1/2) (TODO) <br />
 Utilsation du module `pillow` <br />
