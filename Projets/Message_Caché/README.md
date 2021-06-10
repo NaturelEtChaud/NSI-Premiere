@@ -20,12 +20,12 @@ Effectuer un chiffrement (par exemple le chiffre de César ou le chiffre de Vige
 https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage <br />
 https://fr.wikipedia.org/wiki/Chiffre_de_Vigen%C3%A8re
 
-## Troisième étape - Cryptographie 3/3 (TODO) <br />
+## Troisième étape - Cryptographie 3/3 *(Fait)* <br />
 Convertir chaque caractère en un nombre binaire.
 
 # Partie B : Stéganographie
 
-## Quatrième étape - Stéganographie (1/2) (TODO) <br />
+## Quatrième étape - Stéganographie (1/2) *(Fait)* <br />
 Utilsation du module `pillow` <br />
 Récupérer la composante de Rouge, Vert et Bleu de chaque pixel d'une image au format `.bmp`. <br />
 Convertir ces composantes en binaire et supprimer des bits de poids faibles. <br />
