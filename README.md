@@ -14,5 +14,5 @@ Pour mémoire, pour rendre les notebooks exécutables, il faut d'abord cliquer s
 <br>
 Pour programmer à la maison :
 
-* vous pouvez télécharger et installer l'IDE [Pyzo](https://pyzo.org/start.html)
-* vous pouvez utilser l'IDE en ligne [Basthon](https://console.basthon.fr/) 
+* vous pouvez télécharger et installer l'IDE [Pyzo](https://pyzo.org/start.html){:target="_blank" }
+* vous pouvez utilser l'IDE en ligne [Basthon](https://console.basthon.fr/){:target="_blank" }
