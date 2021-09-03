@@ -1,4 +1,4 @@
-Voici un document écrit par une collègue, amendé par la communauté des professeurs de NSI et validé par l’Inspecteur Général Jean-Marie Chesneaux.
+Voici un document écrit par une collègue, amendé par la communauté des professeurs de NSI et validé par l’ancien Inspecteur Général Jean-Marie Chesneaux.
 
  
 
