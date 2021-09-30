@@ -10,6 +10,6 @@ while True:
         display.show(liste[i])
         sleep(temps)
         if button_a.is_pressed():
-            temps += 100
+            temps = temps + 100
         if button_b.is_pressed() and temps>0:
-            temps -= 100
+            temps = temps - 100
