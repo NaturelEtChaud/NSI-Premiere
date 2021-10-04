@@ -1,4 +1,4 @@
-# La carte BBC micro:bit
+# Chapitre 02 - La carte BBC micro:bit
 
 Pour programmer la carte, nous allons utiliser l'éditeur Mu.
 
