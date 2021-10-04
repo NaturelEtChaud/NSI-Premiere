@@ -12,8 +12,7 @@ Pour cette année 2021-2022, ont été mis à jour les chapitres suivants :
 ---
 Pour mémoire, vous pouvez rendre les notebooks exécutables, il faut d'abord cliquer sur ce lien : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/NSI-Premiere/HEAD)
 
-<br>
-<br>
+
 
 ---
 <br>
