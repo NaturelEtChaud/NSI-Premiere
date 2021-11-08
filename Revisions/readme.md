@@ -1,6 +1,6 @@
-# Tout ce qu'il faut savoir
+# Tout ce qu'il faut savoir en première
 
-* Python, les [bases](https://github.com/NaturelEtChaud/NSI-Premiere/blob/main/Revisions/CeQueJeSaisPython1.ipynb)
+
 
 
 ---
