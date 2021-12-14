@@ -10,7 +10,7 @@ Pour cette année 2021-2022, ont été mis à jour les chapitres suivants (les a
 * [Chapitre 03 Le système d'exploitation I](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/03%20Syst%C3%A8me%20d'exploitation%20I)
 * [Chapitre 04 Représentation des entiers](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/04%20Repr%C3%A9sentation%20des%20entiers)
 * [Chapitre 05 Tuple et Tableau](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/05%20Tuple%20et%20Tableau)
-
+* [Chapitre 06 Représentation d'un texte](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/06%20Repr%C3%A9sentation%20des%20textes)
 ---
 Pour mémoire, vous pouvez rendre les notebooks exécutables, il faut d'abord cliquer sur ce lien : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/NSI-Premiere/HEAD)
 
