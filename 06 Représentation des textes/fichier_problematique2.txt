@@ -1,0 +1,1 @@
+Ceci est un texte accentué enregistré en utf8 avec des é des è des ç des à et même des ù
