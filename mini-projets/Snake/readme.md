@@ -15,6 +15,7 @@ On peut ensuite proposer des variantes :
 * le snake a une tête, un corps et une queue
 * il y a deux joueurs
 * il y a des champignons et des pommes à manger. Ces deux aliments n'ont pas le même effet
+* il y a des murs
 * ...
 
 
