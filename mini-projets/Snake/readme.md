@@ -3,7 +3,7 @@
 Jusqu'à preuve du contraire, les images sont libres de droit. On peut les retrouver à cette adresse : <br>
 [https://www.html5gamedevs.com/topic/25589-general-data-structure-for-phaser-snake-game/](https://www.html5gamedevs.com/topic/25589-general-data-structure-for-phaser-snake-game/)
 
-[![Snake](https://github.com/NaturelEtChaud/NSI-Premiere/blob/main/mini-projets/Snake/iamges.png)]
+![Snake](https://github.com/NaturelEtChaud/NSI-Premiere/blob/main/mini-projets/Snake/iamges.png)
 
 ---
 
