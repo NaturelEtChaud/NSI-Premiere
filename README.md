@@ -12,6 +12,7 @@ Pour cette année 2021-2022, ont été mis à jour les chapitres suivants (les a
 * [Chapitre 05 Tuple et Tableau](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/05%20Tuple%20et%20Tableau)
 * [Chapitre 06 Représentation d'un texte](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/06%20Repr%C3%A9sentation%20des%20textes)
 * [Chapitre 07 Représentations des nombres réels](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/07%20Repr%C3%A9sentation%20des%20nombres%20r%C3%A9els)
+* [Chapitre 08 Les booléens](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/08%20Les%20bool%C3%A9ens)
 ---
 Pour mémoire, vous pouvez rendre les notebooks exécutables, il faut d'abord cliquer sur ce lien : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/NSI-Premiere/HEAD)
 
