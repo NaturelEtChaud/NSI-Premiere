@@ -7,6 +7,6 @@
 
 ---
 
-Quelques liens utiles :
+Pour aller plus loin, quelques inforamtions très intéressantes :
 * La page wikipédia sur les [adresses IPv4](https://fr.wikipedia.org/wiki/IPv4)
 * la page wikipédia sur les [adresses IP](https://fr.wikipedia.org/wiki/Adresse_IP)
