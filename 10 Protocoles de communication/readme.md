@@ -4,6 +4,7 @@
 
 * Le [pdf](https://github.com/NaturelEtChaud/NSI-Premiere/blob/main/10%20Protocoles%20de%20communication/premi%C3%A8re_NSI10_ProtocoleCommunication.pdf) du cours.
 * L'[ensemble](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/10%20Protocoles%20de%20communication/filius) des simulations montées avec le logiciel Filius
+* Un [exemple de calcul](https://github.com/NaturelEtChaud/NSI-Premiere/blob/main/10%20Protocoles%20de%20communication/calculs%20avec%20un%20masque%20de%20sous-r%C3%A9seau.ods) avec un masque de sous-réseau
 
 ---
 
