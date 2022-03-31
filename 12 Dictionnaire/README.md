@@ -1,4 +1,4 @@
-# 10 Dictionnaires
+# 12 Dictionnaires
 
 Les mini-projets associés sont :
 * Qui est-ce ? <br /> Requêtes sur un tableau de dictionnaires
