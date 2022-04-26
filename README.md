@@ -15,6 +15,7 @@ Pour cette année 2021-2022, ont été mis à jour les chapitres suivants (les a
 * [Chapitre 08 Les booléens](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/08%20Les%20bool%C3%A9ens)
 * [Chapitre 09 Docstring](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/09%20Docstring)
 * [Chapitre 10 Protocoles de communication dans un réseau](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/10%20Protocoles%20de%20communication)
+* [Chapitre 12 Les dictionnaires](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/12%20Dictionnaire)
 ---
 Pour mémoire, vous pouvez rendre les notebooks exécutables, il faut d'abord cliquer sur ce lien : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/NSI-Premiere/HEAD)
 
