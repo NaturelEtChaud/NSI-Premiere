@@ -1,4 +1,4 @@
-# Chapitre 14 - Data
+# Chapitre 13 - Data
 
 ## Titanic
 L'exercice 5 sur les données du **Titanic** est un exercice assez classique.
