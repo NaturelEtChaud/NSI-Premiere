@@ -73,7 +73,7 @@ for id in idComics:
             trouvee = True
         else :
             i += 1
-    comicsK.append(comics[i])
+    comicsK.append(comics[i]['title'])
 
 #vérification
 print(comicsK[:5],len(comicsK))
