@@ -26,7 +26,6 @@ def ewok_masculin():
     Post-conditions :
         nom doit être le nom masculin d'un ewok
     """
-    voyelles = 'aeiouy'
     consonnes = 'bcdfghjklmnpqrstvwxz'
     nom = ''
     for i in range(2):
