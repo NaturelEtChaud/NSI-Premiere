@@ -2,7 +2,7 @@
 
 Vous trouverez ici mon cours complet de NSI, niveau première.
 
-Pour cette année 2021-2022, ont été mis à jour les chapitres suivants (les autres chapitres sont toujours disponibles) :
+Pour cette année 2021-2022, ont été mis à jour les chapitres suivants :
 
 * [Chapitre 00 Présentation de l'année](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/00)
 * [Chapitre 01 Les différentes structures algorithmiques](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/01LesDifferentesStructuresAlgorithmiques)
