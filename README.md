@@ -18,6 +18,7 @@ Pour cette année 2021-2022, ont été mis à jour les chapitres suivants (les a
 * [Chapitre 12 Les dictionnaires](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/12%20Dictionnaire)
 * [Chapitre 13 Data](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/13%20Data)
 * [Chapitre 14 Modèle d'architecture séquentielle](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/14%20Mod%C3%A8le%20d'architecture%20s%C3%A9quentielle)
+* [Chapitre 15 Algorithmes de tri](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/15%20Algorithmes%20de%20tri)
 
 ---
 Pour mémoire, vous pouvez rendre les notebooks exécutables, il faut d'abord cliquer sur ce lien : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/NSI-Premiere/HEAD)
