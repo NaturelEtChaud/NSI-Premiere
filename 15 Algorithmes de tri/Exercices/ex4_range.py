@@ -2,35 +2,71 @@
 
 import random as rd
 
-#taille du tableau
-n=5
 
-#pour rentrer dans la bouclue
-ordre = 0
-essais = 0
+def croissant(tab,i):
+    """
+    les premières cases sont dans l'ordre croissant
+    on vérifie pour la suite
+    """
+    ordre = True
+    while ordre and (i<len(tab)) :
+        if tab[i] < tab[i-1]:
+            ordre = False
+        i = i + 1
+    return ordre
 
-while(ordre==0) :
-    #un tableau de boolean
-    T=[rd.randint (0 ,5) for i in range(n)]
+def decroissant(tab,i):
+    """
+    les deux premières cases sont dans l'ordre decroissant
+    on vérifie pour la suite
+    """
+    ordre = True
+    while ordre and (i<len(tab)) :
+        if tab[i] > tab[i-1]:
+            ordre = False
+        i = i + 1
+    return ordre
+
+def est_trier(tab):
+    """
+    On regarde uniquement les premières cases
+    On renvoie :
+    0 si le tableau n'est pas trié
+    1 si le tableau est trié dans l'odre croissant
+    2 si le tableau est trié dans l'ordre décroissant
+    3 si le tableau est constant
+    """
+    i = 1
+    while i<len(tab) and tab[i] == tab[i-1] :
+        i = i + 1
+    if i == len(tab):
+        return 3
+    elif tab[i] > tab[i-1] :
+        if croissant(tab,i) :
+            return 1
+        else :
+            return 0
+    else :
+        if decroissant(tab,i) :
+            return 2
+        else :
+            return 0
+
+
+####
+# pour vérification
+####
+if __name__ == "__main__":
+    #   taille du tableau
+    n=10
+    T=[rd.randint (0 ,10) for i in range(n)]
     print(T)
+    print(est_trier(T))
+    T_croi = [0,0,0,0,1,2,3,5]
+    print(est_trier(T_croi))
+    T_dec = [6,6,6,3,2,0,0,0,0]
+    print(est_trier(T_dec))
+    T_cst = [8,8,8,8,8,8,8]
+    print(est_trier(T_cst))
 
-    #variable ordre
-    #décroissant = -1, rien = 0, croissant = 1
-    #on teste T[0] et T[1]
-    ordre = -1
-    if T[0]<= T[1]:
-        ordre = 1
 
-    #on vérifie si l'ordre est respectée
-    i=2
-    while i<len(T) and ordre !=0 :
-        if T[i-1] < T[i] and ordre == -1 :
-            ordre = 0
-        if T[i-1] > T[i] and ordre == 1 :
-            ordre = 0
-        i += 1
-
-    print(ordre)
-    essais += 1
-
-print(essais,"essais")
