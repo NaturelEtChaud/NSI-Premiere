@@ -19,7 +19,7 @@ Pour cette année 2021-2022, ont été mis à jour les chapitres suivants :
 * [Chapitre 13 Data](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/13%20Data)
 * [Chapitre 14 Modèle d'architecture séquentielle](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/14%20Mod%C3%A8le%20d'architecture%20s%C3%A9quentielle)
 * [Chapitre 15 Algorithmes de tri](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/15%20Algorithmes%20de%20tri)
-* [Chapitre 16 Algorithmes gloutons](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/16%20Algorithmes%20gloutons)*
+* [Chapitre 16 Algorithmes gloutons](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/16%20Algorithmes%20gloutons)
 * [Chapitre 17 Algorithme de recherche dichotomique](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/17%20Dichotomie)
 
 ---
