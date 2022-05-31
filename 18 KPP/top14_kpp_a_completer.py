@@ -21,7 +21,7 @@ def dist(A,B):
     pass
 
 # fonction pour déterminer les k plus proches voisins
-def kpp(poids, taille, k):
+def kpp(poids, taille, joueurs, k):
     '''
     renvoie la liste des postes des k plus proches voisins de l'individu ayant le poids et la taille donnés en argument
     '''
