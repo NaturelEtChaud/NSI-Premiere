@@ -9,7 +9,7 @@ with codecs.open('top14.csv', 'r', 'utf-8') as fichier:
         joueurs.append(dict(ligne))
 
 # pour vérification on affiche le premier joueur
-print(joueurs[2])
+print(joueurs[0])
 
 # fonction distance
 def dist(A,B):
