@@ -22,6 +22,7 @@ Pour cette année 2021-2022, ont été mis à jour les chapitres suivants :
 * [Chapitre 16 Algorithmes gloutons](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/16%20Algorithmes%20gloutons)
 * [Chapitre 17 Algorithme de recherche dichotomique](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/17%20Dichotomie)
 * [Chapitre 18 Algorithme des k plus proches voisins](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/18%20KPP)
+* [Chapitre 19 HTML CSS JavaScript](https://github.com/NaturelEtChaud/NSI-Premiere/tree/main/19%20HTML%20CSS%20JavaScript)
 
 ---
 Pour mémoire, vous pouvez rendre les notebooks exécutables, il faut d'abord cliquer sur ce lien : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/NSI-Premiere/HEAD)
